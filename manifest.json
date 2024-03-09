@@ -1,0 +1,14 @@
+{
+    "theme_color" : "#3bf635",
+    "background_color" : "#3f5938",
+    "display" : "fullscreen",
+    "scope" : "/",
+    "start_url" : "/aplikacja-pwa",
+    "name" : "strona o żabach",
+    "short_name" : "FrogSite",
+    "icons": [{
+        "src": "./frog_icon.png",
+        "sizes": "512x512",
+        "type": "png"
+    }]
+}
